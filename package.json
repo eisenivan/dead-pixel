@@ -1,0 +1,19 @@
+{
+  "name": "dead-pixel",
+  "version": "1.0.0",
+  "description": "Simulate a dead pixel on your site because... reasons.",
+  "main": "dead-pixel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eisenivan/dead-pixel.git"
+  },
+  "author": "Ivan Eisenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eisenivan/dead-pixel/issues"
+  },
+  "homepage": "https://github.com/eisenivan/dead-pixel#readme"
+}
