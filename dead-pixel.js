@@ -8,7 +8,7 @@
     div.style.position = 'fixed'
     div.style.left = '74.3%'
     div.style.top = '17.3%'
-    div.style.zIndex = '99999'
+    div.style.zIndex = '999999999'
 
     document.body.appendChild(div)
 })()
