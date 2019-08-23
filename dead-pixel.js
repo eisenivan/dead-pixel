@@ -1,7 +1,7 @@
 ;(function() {
     'use strict'
 
-    const div = document.createElement("div")
+    var div = document.createElement("div")
     div.style.width = '1px'
     div.style.height = '1px'
     div.style.background = 'black'
