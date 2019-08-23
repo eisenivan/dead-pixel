@@ -16,8 +16,4 @@
     "url": "https://github.com/eisenivan/dead-pixel/issues"
   },
   "homepage": "https://github.com/eisenivan/dead-pixel#readme",
-  "devDependencies": {
-    "webpack": "^4.39.2",
-    "webpack-cli": "^3.3.7"
-  }
 }
